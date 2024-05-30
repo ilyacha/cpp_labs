@@ -1,0 +1,9 @@
+﻿  6_1_v3.cpp
+  CaravanGuardQuest.cpp
+  CaravanRouteQuest.cpp
+D:\PROG\c++\lab_oop\git_labs\6_1_v3\CaravanRouteQuest.cpp(7,86): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  ItemDeliveryQuest.cpp
+  MonsterHuntQuest.cpp
+  Quest.cpp
+  Создание кода...
+  6_1_v3.vcxproj -> D:\PROG\c++\lab_oop\git_labs\6_1_v3\x64\Debug\6_1_v3.exe
